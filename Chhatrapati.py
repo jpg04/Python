@@ -357,3 +357,8 @@ part(part2,part2Goto)
 
 t.hideturtle()
 t.Screen().exitonclick()
+t.Screen().exitonclick()
+
+
+
+
